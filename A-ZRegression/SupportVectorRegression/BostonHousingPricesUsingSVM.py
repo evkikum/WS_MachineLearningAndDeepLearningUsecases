@@ -11,7 +11,14 @@ OUTPUT VARIABLE ==> cmedv
 
 https://github.com/evkikum/WS_MachineLearningAndDeepLearningUsecases/blob/master/A-ZRegression/SupportVectorRegression/SVR-master/SVR.ipynb
 
+https://towardsdatascience.com/svm-and-kernel-svm-fed02bef1200
+
+https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
 """
+
+
+###### THIS IS NOT COMPLETE. WILL NEED TO REVISIT LATER . NEED TO REFER TO THE ABOVE 
+
 
 import numpy as np
 import matplotlib.pyplot as plt

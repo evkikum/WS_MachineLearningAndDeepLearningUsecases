@@ -6,6 +6,9 @@ Created on Wed Sep 16 14:26:14 2020
 @author: evkikum
 https://github.com/codebasics/py/blob/master/ML/10_svm/10_svm.ipynb
 
+https://towardsdatascience.com/svm-and-kernel-svm-fed02bef1200
+
+
 """
 
 
